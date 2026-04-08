@@ -228,15 +228,15 @@
     "tastes": ""
   },
   {
-    "id": 500,
-    "name": "万物欢喜",
-    "price": "16.9",
-    "image": "mt/mt/image_20250917005156",
+    "id": 501,
+    "name": "相生之宠",
+    "price": "2",
+    "image": "mt/mt/image_20250917005207",
     "weight": "",
     "eatType": 1,
     "isNew": false,
     "typeId": 10,
-    "brand": "万物一口",
+    "brand": "相生之宠",
     "tastes": ""
   }
 ]

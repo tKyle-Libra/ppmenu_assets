@@ -1,17 +1,5 @@
 [
   {
-    "id": 501,
-    "name": "相生之宠",
-    "price": "2",
-    "image": "mt/mt/image_20250917005207",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "typeId": 10,
-    "brand": "相生之宠",
-    "tastes": ""
-  },
-  {
     "id": 502,
     "name": "双色碰碰",
     "price": "6",
@@ -82,5 +70,41 @@
     "typeId": 10,
     "brand": "格吾安",
     "tastes": "三文鱼挪威鱼油"
+  },
+  {
+    "id": 508,
+    "name": "Ontutu",
+    "price": "2",
+    "image": "mt/mt/image_20250917005054",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "Ontutu",
+    "tastes": "保护关节、牛磺酸、美毛"
+  },
+  {
+    "id": 509,
+    "name": "万物欢喜",
+    "price": "16.9",
+    "image": "mt/mt/image_20250917005156",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "万物欢喜",
+    "tastes": "鸭肉  鸡肉"
+  },
+  {
+    "id": 510,
+    "name": "猫尾勺",
+    "price": "3",
+    "image": "mt/mt/image_20250917005325",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "tayaaa它伢",
+    "tastes": "兔、牛、鸡、鸭、鸽"
   }
 ]

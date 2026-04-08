@@ -1,0 +1,47 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "product_id": 3,
+      "product_name": "麦卢卡蜂蜜羊奶酱",
+      "product_price": "5.2",
+      "product_img": "image_20250916234449",
+      "product_eat_type": 3,
+      "product_is_new": 0,
+      "product_weight": "80g",
+      "product_type_id": 1,
+      "brand_name": "二人一物",
+      "product_type_name": "酱包",
+      "product_tastes": "姜黄沙棘果、小黄桃木瓜、椰子秋白梨、甘蓝大麦若叶、紫薯小南瓜、芝麻黑松露、草莓蔓越莓、蓝莓黑树莓"
+    },
+    {
+      "product_id": 2,
+      "product_name": "果蔬鸡",
+      "product_price": "7.3",
+      "product_img": "image_20250916234343",
+      "product_eat_type": 1,
+      "product_is_new": 0,
+      "product_weight": "80g",
+      "product_type_id": 1,
+      "brand_name": "毛兀",
+      "product_type_name": "酱包",
+      "product_tastes": "姜黄奇亚籽、椰椰黑芝麻、沙棘羽衣甘蓝、蔓越莓草莓、蛋黄南瓜、酸奶蜂蜜"
+    },
+    {
+      "product_id": 1,
+      "product_name": "缤纷果漾",
+      "product_price": "5.6",
+      "product_img": "image_20250916230147",
+      "product_eat_type": 1,
+      "product_is_new": 0,
+      "product_weight": "70g",
+      "product_type_id": 1,
+      "brand_name": "我自有山海",
+      "product_type_name": "酱包",
+      "product_tastes": "奇异果甜虾、榴莲鸡肉、草莓鸽肉、西瓜兔肉、香蕉蛋黄"
+    }
+  ],
+  "page": 15,
+  "pageSize": 20,
+  "total": 283
+}

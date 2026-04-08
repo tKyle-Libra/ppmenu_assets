@@ -61,7 +61,9 @@ function main() {
         product_is_new: product.product_is_new || 0,
         product_type_id: product.product_type_id,
         product_type_name: '', // 需要从类型表获取，暂时为空
-        product_tastes: productTastes
+        product_tastes: productTastes,
+        is_young: 0, // 是否有幼猫口味
+        is_snacks: 0 // 是否有零食
       }
     })
 
@@ -83,9 +85,23 @@ function main() {
     const tasteMap = {}
     tastes.forEach(taste => {
       if (!tasteMap[taste.product_id]) {
-        tasteMap[taste.product_id] = []
+        tasteMap[taste.product_id] = {
+          tastes: [],
+          is_young: false,
+          is_snacks: false
+        }
       }
-      tasteMap[taste.product_id].push(taste.product_taste_name)
+      tasteMap[taste.product_id].tastes.push(taste.product_taste_name)
+
+      // 标记是否有幼猫口味
+      if (taste.is_young === 1) {
+        tasteMap[taste.product_id].is_young = true
+      }
+
+      // 标记是否有零食
+      if (taste.is_snacks === 1) {
+        tasteMap[taste.product_id].is_snacks = true
+      }
     })
 
     // 6. 更新商品的类型名称和口味
@@ -95,9 +111,15 @@ function main() {
         product.product_type_name = typeMap[product.product_type_id]
       }
 
-      // 设置口味列表
+      // 设置口味列表和相关标记
       if (tasteMap[product.product_id]) {
-        product.product_tastes = tasteMap[product.product_id]
+        product.product_tastes = tasteMap[product.product_id].tastes
+
+        // 标记是否有幼猫口味
+        product.is_young = tasteMap[product.product_id].is_young ? 1 : 0
+
+        // 标记是否有零食
+        product.is_snacks = tasteMap[product.product_id].is_snacks ? 1 : 0
       }
     })
 

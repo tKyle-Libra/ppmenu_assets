@@ -43,12 +43,8 @@ function main() {
 
     // 3. 处理数据
     const processedProducts = products.map(product => {
-      // 处理图片路径
-      let productImg = product.product_img
-      if (!productImg.startsWith('http')) {
-        // 使用CDN路径
-        productImg = `https://cdn.jsdelivr.net/gh/tKyle-Libra/ppmenu_assets@0.0.6/images/${productImg}`
-      }
+      // 处理图片路径（数据库中已经是完整路径，直接拼接CDN）
+      const productImg = `https://cdn.jsdelivr.net/gh/tKyle-Libra/ppmenu_assets@0.0.6/${product.product_img}`
 
       // 处理口味（从 product_img 中提取，或使用其他逻辑）
       const productTastes = []

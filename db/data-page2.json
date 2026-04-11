@@ -1,0 +1,122 @@
+[
+  {
+    "id": 44,
+    "name": "翡冷翠",
+    "price": "5.5",
+    "image": "jb/default.png",
+    "weight": "",
+    "eatType": 2,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "翡冷翠",
+    "tastes": ""
+  },
+  {
+    "id": 1,
+    "name": "缤纷果漾",
+    "price": "5.6",
+    "image": "jb/image_20250916230147",
+    "weight": "70g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 1,
+    "brand": "我自有山海",
+    "tastes": "奇异果甜虾、榴莲鸡肉、草莓鸽肉、西瓜兔肉、香蕉蛋黄"
+  },
+  {
+    "id": 8,
+    "name": "扑吃",
+    "price": "7.5",
+    "image": "jb/image_20250916234559",
+    "weight": "85g",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 1,
+    "brand": "扑吃",
+    "tastes": ""
+  },
+  {
+    "id": 384,
+    "name": "高光冻干",
+    "price": "4.9",
+    "image": "dg/image_20250917145945",
+    "weight": "10g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 7,
+    "brand": "相生之宠",
+    "tastes": "鸡肉三文鱼"
+  },
+  {
+    "id": 299,
+    "name": "主食浓汤罐",
+    "price": "7.8",
+    "image": "tang/image_20250917143822",
+    "weight": "90g",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 6,
+    "brand": "相生之宠",
+    "tastes": "三文鱼南瓜、兔兔草莓、猪猪蓝莓"
+  },
+  {
+    "id": 12,
+    "name": "黑白泥",
+    "price": "5.9",
+    "image": "jb/image_20250917000925",
+    "weight": "80g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 1,
+    "brand": "尾巴生活",
+    "tastes": "乌骨鸡芝麻、白羽鸡"
+  },
+  {
+    "id": 83,
+    "name": "格吾安万圣节限定主食罐",
+    "price": "13.8",
+    "image": "jb/default.png",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 3,
+    "brand": "格吾安",
+    "tastes": ""
+  },
+  {
+    "id": 400,
+    "name": "主食冻干",
+    "price": "9.9",
+    "image": "jb/default.png",
+    "weight": "",
+    "eatType": 2,
+    "isNew": false,
+    "typeId": 7,
+    "brand": "芙哩芙噜",
+    "tastes": "牛肉、鸡肉"
+  },
+  {
+    "id": 501,
+    "name": "相生之宠",
+    "price": "2",
+    "image": "mt/image_20250917005207",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "相生之宠",
+    "tastes": ""
+  },
+  {
+    "id": 198,
+    "name": "彩虹瀑布挞",
+    "price": "7.6",
+    "image": "jb/default.png",
+    "weight": "",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 4,
+    "brand": "象恩",
+    "tastes": "桑葚树莓鸡、蛋黄羊奶鸡"
+  }
+]

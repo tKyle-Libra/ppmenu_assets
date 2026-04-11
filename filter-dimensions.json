@@ -1,0 +1,133 @@
+{
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "新品",
+      "options": [
+        {
+          "id": "all",
+          "name": "全部",
+          "value": "",
+          "count": 30
+        },
+        {
+          "id": "new",
+          "name": "新品",
+          "value": "1",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "宠物",
+      "options": [
+        {
+          "id": "all",
+          "name": "全部",
+          "value": "",
+          "count": 30
+        },
+        {
+          "id": "cat",
+          "name": "猫",
+          "value": "cat",
+          "count": 19
+        },
+        {
+          "id": "dog",
+          "name": "狗",
+          "value": "dog",
+          "count": 4
+        },
+        {
+          "id": "universal",
+          "name": "通用",
+          "value": "universal",
+          "count": 7
+        },
+        {
+          "id": "young",
+          "name": "幼猫",
+          "value": "young",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "类型",
+      "options": [
+        {
+          "id": "all",
+          "name": "全部",
+          "value": "",
+          "count": 30
+        },
+        {
+          "id": "1",
+          "name": "其他",
+          "value": "其他",
+          "count": 5,
+          "type_id": "1"
+        },
+        {
+          "id": "2",
+          "name": "其他",
+          "value": "其他",
+          "count": 6,
+          "type_id": "2"
+        },
+        {
+          "id": "3",
+          "name": "其他",
+          "value": "其他",
+          "count": 4,
+          "type_id": "3"
+        },
+        {
+          "id": "4",
+          "name": "其他",
+          "value": "其他",
+          "count": 2,
+          "type_id": "4"
+        },
+        {
+          "id": "5",
+          "name": "其他",
+          "value": "其他",
+          "count": 1,
+          "type_id": "5"
+        },
+        {
+          "id": "6",
+          "name": "其他",
+          "value": "其他",
+          "count": 3,
+          "type_id": "6"
+        },
+        {
+          "id": "7",
+          "name": "其他",
+          "value": "其他",
+          "count": 4,
+          "type_id": "7"
+        },
+        {
+          "id": "9",
+          "name": "其他",
+          "value": "其他",
+          "count": 1,
+          "type_id": "9"
+        },
+        {
+          "id": "10",
+          "name": "其他",
+          "value": "其他",
+          "count": 4,
+          "type_id": "10"
+        }
+      ]
+    }
+  ]
+}

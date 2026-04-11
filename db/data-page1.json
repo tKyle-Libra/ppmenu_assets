@@ -1,0 +1,122 @@
+[
+  {
+    "id": 286,
+    "name": "晚安奶",
+    "price": "7.7",
+    "image": "nzp/image_20250917004234",
+    "weight": "",
+    "eatType": 2,
+    "isNew": false,
+    "typeId": 5,
+    "brand": "早安",
+    "tastes": ""
+  },
+  {
+    "id": 52,
+    "name": "绵乳鲜鲜",
+    "price": "4.6",
+    "image": "cb/image_20250917002823",
+    "weight": "60g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "猫儿游记",
+    "tastes": "鸡肉羊奶蘑菇、鸡肉羊奶鱼籽、鸡肉蛋黄南瓜、鸡肉蛋黄羊奶"
+  },
+  {
+    "id": 386,
+    "name": "厂花小姐",
+    "price": "4.9",
+    "image": "dg/image_20250917150039",
+    "weight": "10g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 7,
+    "brand": "厂花小姐",
+    "tastes": ""
+  },
+  {
+    "id": 95,
+    "name": "FPMR高肉罐",
+    "price": "11",
+    "image": "gt/image_20250917135741",
+    "weight": "95g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 3,
+    "brand": "弗列加特",
+    "tastes": "兔肉、幼猫鸡、火鸡"
+  },
+  {
+    "id": 15,
+    "name": "厚乳酱包",
+    "price": "6.5",
+    "image": "jb/image_20250917001008",
+    "weight": "90g",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 1,
+    "brand": "玫咯",
+    "tastes": "冰蓝生椰、桑心紫极、芝芝莓莓、苹苹蛋蛋"
+  },
+  {
+    "id": 191,
+    "name": "椰椰奶冻",
+    "price": "6.2",
+    "image": "ch/image_20250917142404",
+    "weight": "40g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 4,
+    "brand": "虎几",
+    "tastes": "乌鸡磷虾黑芝麻、番茄树莓兔、紫薯南瓜鸡、鸽鸽姜黄"
+  },
+  {
+    "id": 493,
+    "name": "猫条",
+    "price": "2",
+    "image": "mt/image_20250917005002",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "布兰德",
+    "tastes": "鱼油（新品）、鲜虾蛋黄、鸡肉、鸽肉"
+  },
+  {
+    "id": 48,
+    "name": "主食液态生骨肉",
+    "price": "2.5",
+    "image": "cb/image_20250917002451",
+    "weight": "25g",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "益嘉禾暮",
+    "tastes": "乌鸡肉羊乳、乳鸽鳖蛋、兔肉益生元、鸡肉卵磷脂、鸡肉蔓越莓、鸭肉雪梨"
+  },
+  {
+    "id": 16,
+    "name": "相生之宠",
+    "price": "6.8",
+    "image": "jb/image_20250917001023",
+    "weight": "80g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 1,
+    "brand": "相生之宠",
+    "tastes": ""
+  },
+  {
+    "id": 497,
+    "name": "翡冷翠",
+    "price": "2",
+    "image": "mt/image_20250917005119",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "翡冷翠",
+    "tastes": ""
+  }
+]

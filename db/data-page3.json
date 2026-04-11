@@ -1,0 +1,122 @@
+[
+  {
+    "id": 488,
+    "name": "Mecredy明质",
+    "price": "0",
+    "image": "other/image_20250917005944",
+    "weight": "",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 9,
+    "brand": "Mecredy明质",
+    "tastes": ""
+  },
+  {
+    "id": 59,
+    "name": "果蔬大肉包",
+    "price": "6.9",
+    "image": "cb/image_20250917003146",
+    "weight": "",
+    "eatType": 2,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "朵朵一朵",
+    "tastes": "三文鱼南瓜、鸡肉苹果、鸭肉雪梨"
+  },
+  {
+    "id": 291,
+    "name": "大碗汤",
+    "price": "2.9",
+    "image": "tang/image_20250917143627",
+    "weight": "70g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 6,
+    "brand": "领先",
+    "tastes": "椰子鸡、牛肉、鸡肉"
+  },
+  {
+    "id": 58,
+    "name": "牛奶餐包",
+    "price": "4.9",
+    "image": "cb/image_20250917003001",
+    "weight": "80g",
+    "eatType": 3,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "尽兴",
+    "tastes": "鲜奶三文鱼、鲜奶鸡肉"
+  },
+  {
+    "id": 92,
+    "name": "熔岩罐",
+    "price": "8.9",
+    "image": "gt/image_20250917135708",
+    "weight": "85g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 3,
+    "brand": "毛兀",
+    "tastes": "鸡肉蔓越莓流心、鸡肉蛋黄流心、鸡肉黑芝麻流心"
+  },
+  {
+    "id": 395,
+    "name": "cp主食冻干",
+    "price": "3.9",
+    "image": "jb/default.png",
+    "weight": "10g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 7,
+    "brand": "阿飞巴弟",
+    "tastes": "蓝莓蔓越莓"
+  },
+  {
+    "id": 47,
+    "name": "主食拉丝酱包",
+    "price": "4.5",
+    "image": "cb/image_20250917002349",
+    "weight": "60g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 2,
+    "brand": "肉垫",
+    "tastes": "大麦羊乳鸽、芝士树莓鸡、草莓蜂蜜兔、酸奶椰子鸡"
+  },
+  {
+    "id": 499,
+    "name": "霸弗",
+    "price": "20",
+    "image": "mt/image_20250917005141",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 10,
+    "brand": "霸弗",
+    "tastes": ""
+  },
+  {
+    "id": 88,
+    "name": "生骨肉罐头",
+    "price": "16.4",
+    "image": "gt/image_20250917135551",
+    "weight": "100g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 3,
+    "brand": "万物一口",
+    "tastes": "牛肉、鸡肉、鸽肉"
+  },
+  {
+    "id": 292,
+    "name": "主食汤包",
+    "price": "6.8",
+    "image": "tang/image_20250917143638",
+    "weight": "65g",
+    "eatType": 1,
+    "isNew": false,
+    "typeId": 6,
+    "brand": "万物一口",
+    "tastes": "椰椰鸭、楂楂兔、瓜瓜鸡"
+  }
+]

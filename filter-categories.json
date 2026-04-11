@@ -1,0 +1,64 @@
+[
+  {
+    "id": "all",
+    "name": "全部",
+    "value": "",
+    "count": 30
+  },
+  {
+    "id": "1",
+    "name": "餐盒",
+    "value": "餐盒",
+    "count": 4,
+    "type_id": 4
+  },
+  {
+    "id": "2",
+    "name": "罐头",
+    "value": "罐头",
+    "count": 4,
+    "type_id": 3
+  },
+  {
+    "id": "3",
+    "name": "酱包",
+    "value": "酱包",
+    "count": 2,
+    "type_id": 1
+  },
+  {
+    "id": "4",
+    "name": "餐包",
+    "value": "餐包",
+    "count": 2,
+    "type_id": 2
+  },
+  {
+    "id": "5",
+    "name": "奶制品",
+    "value": "奶制品",
+    "count": 2,
+    "type_id": 5
+  },
+  {
+    "id": "6",
+    "name": "冻干",
+    "value": "冻干",
+    "count": 1,
+    "type_id": 7
+  },
+  {
+    "id": "7",
+    "name": "猫条",
+    "value": "猫条",
+    "count": 1,
+    "type_id": 8
+  },
+  {
+    "id": "8",
+    "name": "其他",
+    "value": "其他",
+    "count": 1,
+    "type_id": 9
+  }
+]

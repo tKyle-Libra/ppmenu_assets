@@ -1,0 +1,4 @@
+*.bak.*
+*.db-shm
+*.db-wal
+.DS_Store

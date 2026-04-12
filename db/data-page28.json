@@ -1,33 +1,7 @@
 [
   {
-    "id": 85,
-    "name": "格吾安冬季限定",
-    "price": "13.5",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "is_young": false,
-    "typeId": 3,
-    "brand": "格吾安",
-    "tastes": ""
-  },
-  {
-    "id": 86,
-    "name": "格吾安格罐",
-    "price": "8.2",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "is_young": false,
-    "typeId": 3,
-    "brand": "格吾安",
-    "tastes": ""
-  },
-  {
-    "id": 87,
-    "name": "生骨肉主食罐",
+    "id": 594,
+    "name": "生骨肉系列",
     "price": "9.9",
     "image": "gt/image_20250917135541.jpeg",
     "weight": "95g",
@@ -36,24 +10,24 @@
     "is_young": false,
     "typeId": 3,
     "brand": "爱立方",
-    "tastes": "三文鱼、兔肉、鸡肉"
+    "tastes": "鸡肉  三文鱼  兔肉"
   },
   {
-    "id": 88,
-    "name": "生骨肉罐头",
-    "price": "16.4",
-    "image": "gt/image_20250917135551.jpeg",
+    "id": 595,
+    "name": "生骨肉系列",
+    "price": "15.75",
+    "image": "gt/image_20250917135605.jpeg",
     "weight": "100g",
-    "eatType": 1,
+    "eatType": 2,
     "isNew": false,
     "is_young": false,
     "typeId": 3,
-    "brand": "万物一口",
-    "tastes": "牛肉、鸡肉、鸽肉"
+    "brand": "万物欢喜",
+    "tastes": "三文鱼、牛肉、鸭肉"
   },
   {
-    "id": 89,
-    "name": "莓莓流心罐",
+    "id": 596,
+    "name": "莓莓流心系列",
     "price": "8.5",
     "image": "gt/image_20250917135622.jpeg",
     "weight": "65g",
@@ -62,11 +36,11 @@
     "is_young": false,
     "typeId": 3,
     "brand": "尾巴生活",
-    "tastes": "兔莓巴西莓、猪肉蔓越莓、鸽鸽羊奶"
+    "tastes": "鸽鸽羊奶  兔莓巴西莓  猪肉蔓越莓"
   },
   {
-    "id": 90,
-    "name": "太阳流心罐",
+    "id": 598,
+    "name": "太阳流心系列",
     "price": "8.5",
     "image": "gt/image_20250917135643.jpeg",
     "weight": "65g",
@@ -75,11 +49,11 @@
     "is_young": false,
     "typeId": 3,
     "brand": "尾巴生活",
-    "tastes": "兔肉鱼油、鸡肉鱼油、鸽鸽羊奶"
+    "tastes": "鸽鸽羊奶  鸡肉鱼油  兔肉鱼油"
   },
   {
-    "id": 91,
-    "name": "白月光流心罐",
+    "id": 600,
+    "name": "白月光流心",
     "price": "8.5",
     "image": "gt/image_20250917135658.jpeg",
     "weight": "65g",
@@ -91,8 +65,8 @@
     "tastes": "白羽鸡羊初乳"
   },
   {
-    "id": 92,
-    "name": "熔岩罐",
+    "id": 601,
+    "name": "熔岩系列",
     "price": "8.9",
     "image": "gt/image_20250917135708.jpeg",
     "weight": "85g",
@@ -104,8 +78,8 @@
     "tastes": "鸡肉蔓越莓流心、鸡肉蛋黄流心、鸡肉黑芝麻流心"
   },
   {
-    "id": 93,
-    "name": "生骨肉主食罐",
+    "id": 602,
+    "name": "生骨肉系列",
     "price": "6.1",
     "image": "gt/image_20250917135720.jpeg",
     "weight": "50g",
@@ -114,11 +88,11 @@
     "is_young": false,
     "typeId": 3,
     "brand": "毛兀",
-    "tastes": "手撕兔肉、手撕鸡肉、手撕鸵鸟肉、汤肉三文鱼、汤肉乳鸽、汤肉牛肉、汤肉羊肉、鹅肝鸡肉"
+    "tastes": "汤肉乳鸽  汤肉三文鱼  汤肉牛肉  汤肉羊肉  50g\n手撕鸡肉  手撕兔肉  手撕鸵鸟肉  鹅肝鸡肉"
   },
   {
-    "id": 94,
-    "name": "领先",
+    "id": 603,
+    "name": "生骨肉系列",
     "price": "8.1",
     "image": "gt/image_20250917135731.jpeg",
     "weight": "85g",
@@ -127,37 +101,37 @@
     "is_young": false,
     "typeId": 3,
     "brand": "领先",
-    "tastes": ""
+    "tastes": "虎斑墨鱼  丹阳湖蟹"
   },
   {
-    "id": 95,
-    "name": "FPMR高肉罐",
+    "id": 604,
+    "name": "FPMR高肉系列",
     "price": "11",
     "image": "gt/image_20250917135741.jpeg",
     "weight": "95g",
     "eatType": 1,
     "isNew": false,
-    "is_young": false,
+    "is_young": true,
     "typeId": 3,
     "brand": "弗列加特",
     "tastes": "兔肉、幼猫鸡、火鸡"
   },
   {
-    "id": 96,
-    "name": "0乳糖罐",
+    "id": 605,
+    "name": "0乳糖系列",
     "price": "11.5",
     "image": "gt/image_20250917135754.jpeg",
     "weight": "95g",
     "eatType": 1,
     "isNew": false,
-    "is_young": false,
+    "is_young": true,
     "typeId": 3,
     "brand": "弗列加特",
-    "tastes": "幼猫鸡、成猫鸡"
+    "tastes": "幼猫鸡  成猫鸡"
   },
   {
-    "id": 97,
-    "name": "羊奶鲜肉罐",
+    "id": 606,
+    "name": "羊奶鲜肉",
     "price": "7.5",
     "image": "gt/image_20250917135806.jpeg",
     "weight": "45g",
@@ -169,21 +143,21 @@
     "tastes": "羊奶鸡肉"
   },
   {
-    "id": 98,
-    "name": "奶糕罐",
+    "id": 607,
+    "name": "奶糕",
     "price": "6.9",
     "image": "gt/image_20250917135917.jpeg",
     "weight": "50g",
     "eatType": 1,
     "isNew": false,
-    "is_young": false,
+    "is_young": true,
     "typeId": 3,
     "brand": "诚实一口",
     "tastes": "鸡肉羊奶"
   },
   {
-    "id": 99,
-    "name": "喜崽流心罐",
+    "id": 608,
+    "name": "流心系列",
     "price": "6.9",
     "image": "gt/image_20250917140122.jpeg",
     "weight": "65g",
@@ -192,37 +166,11 @@
     "is_young": false,
     "typeId": 3,
     "brand": "喜崽",
-    "tastes": ""
+    "tastes": "奶黄鸡肉、桑葚乳鸽、莓莓兔肉"
   },
   {
-    "id": 100,
-    "name": "奶黄盖烧饭",
-    "price": "6.2",
-    "image": "gt/image_20250917140135.jpeg",
-    "weight": "65g",
-    "eatType": 1,
-    "isNew": false,
-    "is_young": false,
-    "typeId": 3,
-    "brand": "季季予喵",
-    "tastes": "鸡肉蛋黄"
-  },
-  {
-    "id": 101,
-    "name": "酪酪盖烧饭",
-    "price": "6.2",
-    "image": "gt/image_20260411090921.jpeg",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "is_young": false,
-    "typeId": 3,
-    "brand": "季季予喵",
-    "tastes": "乌鸡肉"
-  },
-  {
-    "id": 102,
-    "name": "慕斯口味",
+    "id": 609,
+    "name": "向茸",
     "price": "6.9",
     "image": "gt/image_20250917140147.jpeg",
     "weight": "80g",
@@ -234,21 +182,47 @@
     "tastes": "羊奶草莓与无骨嫩鸡"
   },
   {
-    "id": 103,
-    "name": "翡冷翠",
-    "price": "5.2",
-    "image": "gt/image_20250917140237.jpeg",
-    "weight": "85g",
+    "id": 610,
+    "name": "鸽缶",
+    "price": "6.7",
+    "image": "gt/image_20250917140202.jpeg",
+    "weight": "80g",
     "eatType": 1,
     "isNew": false,
     "is_young": false,
     "typeId": 3,
-    "brand": "翡冷翠",
-    "tastes": "六种鱼 乳鸽 兔肉 鸡肉"
+    "brand": "Neku",
+    "tastes": "玻尿酸乳鸽"
   },
   {
-    "id": 104,
-    "name": "肉蔬料理罐",
+    "id": 611,
+    "name": "鸡缶",
+    "price": "5.9",
+    "image": "gt/image_20250917140213.jpeg",
+    "weight": "80g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "Neku",
+    "tastes": "鸡肉蓝莓蔓越莓"
+  },
+  {
+    "id": 612,
+    "name": "榴莲",
+    "price": "7.2",
+    "image": "gt/image_20250917140226.jpeg",
+    "weight": "80g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "Neku",
+    "tastes": "榴莲鸡"
+  },
+  {
+    "id": 613,
+    "name": "肉蔬料理系列",
     "price": "6.8",
     "image": "gt/image_20250917140250.jpeg",
     "weight": "170g",
@@ -258,5 +232,31 @@
     "typeId": 3,
     "brand": "翡冷翠",
     "tastes": "牛肉胡萝卜、鸡肉南瓜、鸭肉雪梨"
+  },
+  {
+    "id": 614,
+    "name": "发育奶糕",
+    "price": "23.3",
+    "image": "gt/image_20250917140313.jpeg",
+    "weight": "80g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": true,
+    "typeId": 3,
+    "brand": "肉垫",
+    "tastes": "鸡肉羊奶"
+  },
+  {
+    "id": 615,
+    "name": "野餐系列",
+    "price": "13",
+    "image": "gt/image_20250917140325.jpeg",
+    "weight": "185g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "肉垫",
+    "tastes": "鸡肉兔肉、鸡肉羊肉、鸡肉鸵鸟、鸡肉鹿肉"
   }
 ]

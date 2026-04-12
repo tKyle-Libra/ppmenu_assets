@@ -1,41 +1,5 @@
 [
   {
-    "id": 61,
-    "name": "共我生活",
-    "price": "4.3",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "typeId": 2,
-    "brand": "共我生活",
-    "tastes": ""
-  },
-  {
-    "id": 62,
-    "name": "（蛋黄酱）",
-    "price": "3.5",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 3,
-    "isNew": false,
-    "typeId": 2,
-    "brand": "纯能",
-    "tastes": "蛋黄、鸡肉；纯肉"
-  },
-  {
-    "id": 63,
-    "name": "全价鲜肉椰椰酱",
-    "price": "3.6",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 3,
-    "isNew": false,
-    "typeId": 2,
-    "brand": "幕野",
-    "tastes": "兔肉、鸭肉"
-  },
-  {
     "id": 64,
     "name": "毛宠牧语",
     "price": "6.9",
@@ -43,6 +7,7 @@
     "weight": "",
     "eatType": 3,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "毛宠牧语",
     "tastes": ""
@@ -55,6 +20,7 @@
     "weight": "40g",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "饥饿的汤姆",
     "tastes": "乳鸽、鸡肉"
@@ -67,6 +33,7 @@
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "饥饿的汤姆",
     "tastes": "三文鱼沙棘、鸡肉椰子、鸭肉蔓越莓"
@@ -75,13 +42,14 @@
     "id": 67,
     "name": "泡咔",
     "price": "3.9",
-    "image": "jb/default.png",
+    "image": "cb/image_20260411090330.jpeg",
     "weight": "",
     "eatType": 2,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "泡咔",
-    "tastes": ""
+    "tastes": "牛肉鸡肉胡萝卜、鳕鱼鸡肉 树莓、鹅肉鸡肉桑葚"
   },
   {
     "id": 68,
@@ -91,45 +59,36 @@
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
-    "brand": "鲜粮说幼猫",
+    "brand": "鲜粮说",
     "tastes": "乳铁蛋白鸡肉羊奶、乳鸽羊奶"
   },
   {
     "id": 69,
     "name": "黏黏兽",
     "price": "4.5",
-    "image": "jb/default.png",
+    "image": "cb/image_20260411090425.jpeg",
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "黏黏兽",
-    "tastes": ""
+    "tastes": "净排云杉、壮壮牡蛎、沁沁莓果、靓靓甲鱼"
   },
   {
     "id": 70,
     "name": "咕唧",
     "price": "3.8",
-    "image": "jb/default.png",
-    "weight": "",
-    "eatType": 1,
-    "isNew": false,
-    "typeId": 2,
-    "brand": "咕唧",
-    "tastes": ""
-  },
-  {
-    "id": 71,
-    "name": "咕唧",
-    "price": "3.8",
-    "image": "jb/default.png",
+    "image": "cb/image_20260411090501.jpeg",
     "weight": "",
     "eatType": 2,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "咕唧",
-    "tastes": ""
+    "tastes": "南瓜鸭肉、紫甘蓝鸡肉、菠菜牛肉"
   },
   {
     "id": 72,
@@ -139,6 +98,7 @@
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "禾式",
     "tastes": ""
@@ -151,6 +111,7 @@
     "weight": "",
     "eatType": 2,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "呼哧",
     "tastes": "牛肉香蕉、草莓鸡肉、鸭肉梨"
@@ -163,6 +124,7 @@
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "万物一口",
     "tastes": ""
@@ -170,47 +132,51 @@
   {
     "id": 75,
     "name": "添一口",
-    "price": "3",
-    "image": "jb/default.png",
+    "price": "3～3.6",
+    "image": "cb/image_20260411090623.jpeg",
     "weight": "",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 2,
     "brand": "添一口",
-    "tastes": ""
+    "tastes": "蛋黄酱、鱼子酱、鹅肝酱"
   },
   {
     "id": 76,
     "name": "鲜朗",
     "price": "7.8",
-    "image": "gt/image_20250917135330",
+    "image": "gt/image_20250917135330.jpeg",
     "weight": "100g",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 3,
     "brand": "鲜朗",
-    "tastes": ""
+    "tastes": "鸡肉 三文鱼 牛肉"
   },
   {
     "id": 77,
     "name": "生生不息",
-    "price": "18.9",
-    "image": "gt/image_20250917135346",
+    "price": "18.5～19.8",
+    "image": "gt/image_20250917135400.jpeg",
     "weight": "100g",
-    "eatType": 1,
+    "eatType": 2,
     "isNew": false,
+    "is_young": false,
     "typeId": 3,
     "brand": "生生不息",
-    "tastes": ""
+    "tastes": "兔肉、猪肉、鸭肉"
   },
   {
     "id": 78,
     "name": "全价主食罐",
     "price": "14.2",
-    "image": "gt/image_20250917135415",
+    "image": "gt/image_20250917135415.jpeg",
     "weight": "170g",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 3,
     "brand": "帕特",
     "tastes": "兔肉、鸡肉（幼）、鸵鸟、鹌鹑"
@@ -219,10 +185,11 @@
     "id": 79,
     "name": "发育罐",
     "price": "11.8",
-    "image": "gt/image_20250917135439",
+    "image": "gt/image_20250917135439.jpeg",
     "weight": "85g",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 3,
     "brand": "格吾安",
     "tastes": "鸡肉（幼猫）"
@@ -231,12 +198,65 @@
     "id": 80,
     "name": "安系列 嘘嘘罐",
     "price": "12.8",
-    "image": "gt/image_20250917135451",
+    "image": "gt/image_20250917135451.jpeg",
     "weight": "85g",
     "eatType": 1,
     "isNew": false,
+    "is_young": false,
     "typeId": 3,
     "brand": "格吾安",
     "tastes": "鸡肉"
+  },
+  {
+    "id": 81,
+    "name": "boost主食罐",
+    "price": "13.8",
+    "image": "gt/image_20250917135504.jpeg",
+    "weight": "85g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "格吾安",
+    "tastes": "慕斯鸡肉"
+  },
+  {
+    "id": 82,
+    "name": "稀有肉罐",
+    "price": "13.8",
+    "image": "gt/image_20250917135517.jpeg",
+    "weight": "85g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "格吾安",
+    "tastes": "木瓜鸽、沙棘鹿、苹果猪、蓝莓兔"
+  },
+  {
+    "id": 83,
+    "name": "格吾安万圣节限定主食罐",
+    "price": "13.8",
+    "image": "jb/default.png",
+    "weight": "",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "格吾安",
+    "tastes": ""
+  },
+  {
+    "id": 84,
+    "name": "四季罐",
+    "price": "9.9",
+    "image": "gt/image_20250917135529.jpeg",
+    "weight": "85g",
+    "eatType": 1,
+    "isNew": false,
+    "is_young": false,
+    "typeId": 3,
+    "brand": "格吾安",
+    "tastes": "山竹鸡、石榴鸡、秋月梨鸭、笋笋鸭、芭乐鸭、莓果鸡"
   }
 ]
